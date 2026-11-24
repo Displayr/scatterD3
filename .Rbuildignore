@@ -4,3 +4,5 @@ example.R
 resources
 rsconnect/
 vignettes/*.html
+^AGENTS\.md$
+^CLAUDE\.md$
